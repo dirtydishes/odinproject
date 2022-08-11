@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    font-family: Roboto;
+
+}
+#logo {
+    flex: 1;
+    margin-left: 50px;
+}
+
+.home {
+    flex: .1;
+    
+}
+
+.about {
+    flex: .1;
+}
+
+
+
